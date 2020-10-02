@@ -3,11 +3,11 @@
   "name": "acammies.com",
   "shortDesc": "Aidan's personal website. Built with Hylia",
   "url": "https://acammies.com",
-  "authorEmail": "acammies+site@gmail.com",
+  "authorEmail": "acammies+website@gmail.com",
   "authorHandle": "@acammies",
   "authorName": "Aidan Cammies",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "",
-  "faviconPath": "/images/Logo-RedHat-Hat-Color-RGBemojilaugh.png"
+  "paymentPointer": "na",
+  "faviconPath": "/images/Logo-RedHat-Hat-Color-RGBemojilaugh.png",
+  "maxPostsPerPage": 5
 }
