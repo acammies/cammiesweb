@@ -7,13 +7,17 @@
     },
     {
       "text": "GitHub",
-      "url": "https://https://github.com/acammies/cammiesweb",
+      "url": "https://github.com/acammies/cammiesweb",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Contact (WIP)",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "All Posts",
+      "url": "/archive"
     }
   ]
 }
