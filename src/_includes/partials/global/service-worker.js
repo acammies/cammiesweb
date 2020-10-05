@@ -13,8 +13,8 @@ const EXCLUDED_URLS = [
   '/thank-you'
 ];
 
+const PRE_CACHE_URLS = ['/', '/fonts/lora-v13-latin-700.woff', '/fonts/oxygen-v10-latin-regular.woff2', '/fonts/oxygen-v10-latin-regular.woff1'];
 // URLS that we want to be cached when the worker is installed
-const PRE_CACHE_URLS = ['/', '/fonts/lora-v13-latin-700.woff'];
 
 // You might want to bypass a certain host
 const IGNORED_HOSTS = ['localhost', 'unpkg.com', ];

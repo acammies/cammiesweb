@@ -8,6 +8,16 @@
     url('/fonts/lora-v13-latin-700.woff') format('woff');
 }
 
+/* oxygen-regular - latin */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oxygen Regular'), local('Oxygen-Regular'),
+       url('/fonts/oxygen-v10-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/oxygen-v10-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
