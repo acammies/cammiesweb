@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
 title: The R Word
-metaTitle: 
-metaDesc: 
+metaTitle: The R Word
+metaDesc: The R Word
 date: 2020-05-22T7:34:20.573Z
 tags:
   - mental-health
