@@ -17,7 +17,8 @@
     },
     {
       "text": "All Posts",
-      "url": "/archive"
+      "url": "/all-posts",
+      "external": false
     }
   ]
 }

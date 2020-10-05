@@ -99,7 +99,13 @@
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
     }
 
-    figure img {
+    figure img { /* copied formatting from the video player tags as when using pictures smaller than page width they'd be too small to align centrally */
+      width: 100vw;
+      max-width: map-get($metrics, 'wrap-max-width');
+      margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+      transform: translateX(
+        -50%
+      ); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
       position: relative;
       z-index: 1;
     }
