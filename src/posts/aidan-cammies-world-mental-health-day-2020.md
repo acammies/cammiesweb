@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Aidan Cammies World Mental Health Day 2020
+title: World Mental Health Day 2020
 metaTitle: Aidan Cammies World Mental Health Day 2020
 date: 2020-10-06T15:54:08.995Z
 tags:
