@@ -51,4 +51,5 @@ Encouraging one or two people in your team(s) to spend 5 minutes putting somethi
   * [Aidan's full 7 page Personal User Manual](https://docs.google.com/document/d/1PjCzV2t_2-gik7VdepW0GqE-j1zhc1COiPv9Bf7MW7s/edit#)
 
 
-### This article is still a work in progress, Aidan :)
+#### Thanks for reading if you've got this far! This article is still a work in progress, feel free to create an [issue on GitHub](https://github.com/acammies/cammiesweb/issues) or email me if you think anything needs changing! 
+#### Have a great day, Aidan :)
