@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
-title: It's okay not to be okay - WMHD 2020
+title: It's okay not to be okay
 metaTitle: Aidan Cammies World Mental Health Day 2020
-date: 2020-10-06T15:54:08.995Z
+date: 2020-10-10T12:37:08.995Z
 tags:
   - mental-health
   - ADHD
   - presentation
 ---
-Hey folks, Happy Mental Health Day! Here's a lil talk I gave yesterday about how it's okay not to be okay. 
+Hey folks, Happy World Mental Health Day! Here's a lil talk I gave yesterday about how it's okay not to be okay! 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8xDt06q3Nc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgdhepM9S_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here's a link to [the slides](tinyurl.com/NotOkayOkay2020) if you'd like to read through or use it as a template! 
 

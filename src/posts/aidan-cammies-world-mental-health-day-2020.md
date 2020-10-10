@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: It's okay to talk about 
+title: World Mental Health Day 2020 (a 2 minute video)
 metaTitle: Aidan Cammies World Mental Health Day 2020
 date: 2020-10-06T15:54:08.995Z
 tags:
