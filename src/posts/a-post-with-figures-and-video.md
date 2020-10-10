@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: A post with figures and video
-date: '2019-06-18'
+date: '2029-06-18'
 tags:
   - demo-content
   - blog
