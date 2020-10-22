@@ -6,18 +6,18 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/acammies/cammiesweb",
-      "external": true
-    },
-    {
-      "text": "Contact (WIP)",
-      "url": "/contact",
+      "text": "All Posts",
+      "url": "/all-posts",
       "external": false
     },
     {
-      "text": "All Posts",
-      "url": "/all-posts",
+      "text": "ADHD Posts",
+      "url": "/tags/ADHD",
+      "external": false
+    },
+    {
+      "text": "Contact",
+      "url": "/contact",
       "external": false
     }
   ]
