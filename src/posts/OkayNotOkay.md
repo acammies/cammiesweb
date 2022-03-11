@@ -8,7 +8,7 @@ tags:
   - ADHD
   - presentation
 ---
-Hey folks, Happy World Mental Health Day! Here's a little talk I gave yesterday about how it's okay not to be okay! 
+Hey folks, Happy World Mental Health Day! Here's a little  talk I gave yesterday about how it's okay not to be okay! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgdhepM9S_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
