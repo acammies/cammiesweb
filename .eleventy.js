@@ -70,6 +70,7 @@ module.exports = function(config) {
       }
     }
   });
+  eleventyConfig.addPlugin(UpgradeHelper);
 
   return {
     dir: {
